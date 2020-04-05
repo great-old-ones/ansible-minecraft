@@ -4,6 +4,7 @@ supported_ansible_os_families:
   - Debian
   - RedHat
   - Alpine
+  - "elementary OS"
 supported_minecraft_servers:
   - minecraft
   - spigot
